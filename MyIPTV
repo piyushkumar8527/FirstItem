@@ -291,7 +291,8 @@ ENGLISH Movie
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5814021064001_5813558986001-th.jpg?pubId=5182475815001&videoId=5813558986001",Sony Pix HD
-https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
+https://sony247channels.akamaized.net:443/hls/live/2009804/PIXHD/hdntl=exp=1578204474~acl=%2f*~data=hdntl~hmac=df7c380b06b264124ef5f387f1a36ffd7d4eabee064fb5545837e95c003d9e34/master_900.m3u8
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5814021064001_5813558986001-th.jpg?pubId=5182475815001&videoId=5813558986001",Sony Pix SD
 https://sony247channels.akamaized.net:443/hls/live/2009804/PIXHD/hdntl=exp=1578204474~acl=%2f*~data=hdntl~hmac=df7c380b06b264124ef5f387f1a36ffd7d4eabee064fb5545837e95c003d9e34/master_412.m3u8
