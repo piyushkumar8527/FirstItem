@@ -1,19 +1,21 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=189200,AVERAGE-BANDWIDTH=189200,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_108.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=316800,AVERAGE-BANDWIDTH=316800,CODECS="avc1.42c00d,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_224.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=523600,AVERAGE-BANDWIDTH=523600,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=512x288,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_412.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800800,AVERAGE-BANDWIDTH=800800,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_664.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1060400,AVERAGE-BANDWIDTH=1060400,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_900.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1570800,AVERAGE-BANDWIDTH=1570800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_1300.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2340800,AVERAGE-BANDWIDTH=2340800,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_2000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3955600,AVERAGE-BANDWIDTH=3955600,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-hdntl=exp=1578244550~acl=%2f*~data=hdntl~hmac=16a8618cb6fc4b9874b960804ce8e1b54d3d406c67d2c32043e6a59ad7dbb1c3/master_3500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PB7QMfb.png" group-title="INDIA",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-1)
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-2)
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClZ9sC8.png" group-title="INDIA",Dilli Aaj Tak
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ5yBfo.png" group-title="INDIA",India TV (Opt-2)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktmbiKt.png" group-title="INDIA",News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktmbiKt.png" group-title="INDIA",News Nation
+http://pockettv.xyz/api/zee.m3u8?c=ddnews
