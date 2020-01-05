@@ -19,3 +19,9 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ktmbiKt.png" group-title="INDIA",News Nation
 http://pockettv.xyz/api/zee.m3u8?c=ddnews
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmbiKt.png" group-title="INDIA",ABP News
+https://msllive.yuppcdn.net/live/yuppmsleumo/hls/live/2008011/abpnews/abpnews/playlist/master.m3u8?hdnea=st=1578229648~exp=1578244048~acl=!*/2008011/abpnews/*!/payload/vodafone_5_33798574_NA_IN_NA_vodafone_1015/*~hmac=be617f9cb990a3f3782b32fe3c0affb746a2e57ab1e507c610bba26b9e42751f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmbiKt.png" group-title="INDIA",Color HD
+http://server01.livetvcdn.dnsabr.com:8081/lpcind2/colorstvhd/chunks.m3u8?nimblesessionid=2723306&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMTI6MjQ6MzcgUE0maGFzaF92YWx1ZT1jamNMdUhDOVhqaHNQSUtuUSt3eTdRPT0mdmFsaWRtaW51dGVzPTI=
