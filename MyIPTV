@@ -429,6 +429,13 @@ http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_hd.jpg",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
+https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="N/A",Star Select HD 
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
+
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
 
@@ -443,6 +450,9 @@ http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Hindi Movies",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",B4U Movies
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43855
 
 #EXTINF:-1 tvg-id="Movies OK" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -482,6 +492,10 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies", Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:0, group-title="Hindi Movies",WOW CINEMA
+http://streamer.multitvsolution.in//live/WowCinema-d/p4.m3u8
+
 
 Bhojpuri Movie
 
