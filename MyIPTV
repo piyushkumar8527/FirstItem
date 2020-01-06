@@ -453,7 +453,7 @@ http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-ag
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Classic"  group-title="Hindi Movies",Zee Classic
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
-EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/and_pictures_in.jpg",And Picture SD
+EXTINF:-0 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/and_pictures_in.jpg",& Picture SD
 http://zee18.site/zee/get.php?channel=andpicshd
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",BOXCinema
