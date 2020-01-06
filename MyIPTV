@@ -68,7 +68,7 @@ https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=157822311
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_sab_tv_in.jpg",Sony SAB SD
-https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1578222684~acl=%2f*~data=hdntl~hmac=d8bd76957c370987ec5f20a9b4be1815696a33986eebb4f0a8c12ee0f53fc823/master_412.m3u8
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_sab_tv_in.jpg",Sony SAB HD
@@ -184,15 +184,18 @@ HINDI News
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png", Zee News
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
 
+#EXTINF:-1 tvg-id="ABP News" group-title="Hindi News" tvg-logo="https://i.imgur.com/ktiKt.png",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
-#EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",News Nation
-https://hls.newsnation.in:443/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b905423.m3u8
+
+#EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="https://i.imgur.com/ktmbiKt.png",News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
 http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
 
-#EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",AajTak
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+#EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AajTak
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak_Delhi.png",AajTak Delhi
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
@@ -203,17 +206,8 @@ http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Loksabha_TV/Lo
 EXTINF:-1 tvg-id="DD Rajyasabha" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",DD Rajya Sabha
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Rajyasabha/DD_Rajyasabha_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="India TV" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV 
-http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/India_TV/India_TV_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-
-#EXTINF:-1 tvg-id="ABP News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/ABP_News_India/ABP_News_India_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-
-#EXTINF:-1 tvg-id="ABP News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV INDIA 
-http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/NDTV_India/NDTV_India_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+#EXTINF:-1 tvg-id="India TV" group-title="Hindi News" tvg-logo="https://i.imgur.com/XJ5yBfo.png",India TV 
+ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News 18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="Hindi News",News 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -221,11 +215,6 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/India_News.png/revision/latest/scale-to-width-down/280?cb=20190307102152" group-title="Hindi News",India News
 https://streamer.multitvsolution.in/IndiaNews-e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png",Taaza TV 
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Taaza_TV/Taaza_TV_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png",Jan News
-http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jan_TV/Jan_TV_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="R Bharat" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg" group-title="Hindi News", TV9 Bharatvarsh
 https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -246,7 +235,10 @@ https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Hindi News",DD News
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+http://pockettv.xyz/api/zee.m3u8?c=ddnews
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.coes/DD_News.png" group-title="Hindi News",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -421,6 +413,9 @@ Hindi Movies
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://images/Sony_Max_HD.png",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
+#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://images/Sony_Max_HD.png",Sony Max SD
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
@@ -461,8 +456,8 @@ http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-ag
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Classic"  group-title="Hindi Movies",Zee Classic
 http://pockettv.xyz/api/zee.m3u8?c=classic
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",And Pictures HD
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:0, tvg-id="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/and_pictures_in.jpg" tvg-name="And Pictures HD"  group-title="Hindi Movies",And Pictures HD
+http://zee18.site/zee/get.php?channel=andpicshd
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",BOXCinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
