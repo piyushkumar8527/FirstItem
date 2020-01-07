@@ -59,15 +59,19 @@ Hindi Entertainment
 --------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg",Color Hd
-http://server01.livetvcdn.dnsabr.com:8081/lpcind2/colorstv/chunks.m3u8?nimblesessionid=2667547&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjAgMTE6NDE6NDUgQU0maGFzaF92YWx1ZT1tRzVsTEpYTGh5SlB4VkJsSFFocjRRPT0mdmFsaWRtaW51dGVzPTI=
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5778290300001_5613703791001-th.jpg?pubId=5182475815001&videoId=5613703791001",Sony SD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1578223118~acl=%2f*~data=hdntl~hmac=98476edfba21ddbf30b7007f9401679bb90e2c9c9195bd60580be8cffa4024ac/master_412.m3u8
+#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5778290300001_5613703791001-th.jpg?pubId=5182475815001&videoId=5613703791001",Sony
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5778290300001_5613703791001-th.jpg?pubId=5182475815001&videoId=5613703791001",Sony HD
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
+#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5778290300001_5613703791001-th.jpg?pubId=5182475815001&videoId=5613703791001",Sony SD
+http://iptv4.ga:8080/live/test004/rebookk/433.ts
+
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_sab_tv_in.jpg",Sony SAB SD
+http://iptv4.ga:8080/live/test004/rebookk/437.ts
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 
@@ -120,6 +124,10 @@ http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ZING" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing 
 http://pockettv.xyz/api/zee.m3u8?c=zing
 
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
+https://streamer.multitvsolution.in/live/9XO-b/p4.m3u8
+
+
 #EXTINF:-1 tvg-id="Z ETC Bollywood" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee ETC Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=etc
 
@@ -141,39 +149,28 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://cdn.imgbin.com/25/16/6/imgbin-apple-music-logo-itunes-apps-itunes-logo-n1m3ZyA8iUE1QYMrLqViWd5CT.jpg",$ JOO MUSIC
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Utv
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Kadak Hungama Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Dilse Hungama Hits
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="",Skystar Music
 https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in_480p/index.m3u8
----------------------------------------------------------------------------------------------------------------
-English Music
 
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
-https://streamer.multitvsolution.in/live/9XO-b/p4.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",M2O Music
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",MB
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Dream Tv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Utv
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -185,8 +182,7 @@ HINDI News
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
 
 #EXTINF:-1 tvg-id="ABP News" group-title="Hindi News" tvg-logo="https://i.imgur.com/ktiKt.png",ABP News
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="https://i.imgur.com/ktmbiKt.png",News Nation
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
@@ -199,6 +195,10 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.
 
 #EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak_Delhi.png",AajTak Delhi
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ABP News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
 
 EXTINF:-1 tvg-id="DD Rajyasabha" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",DD Rajya Sabha
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Rajyasabha/DD_Rajyasabha_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
@@ -284,7 +284,7 @@ https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=e
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5814021064001_5813558986001-th.jpg?pubId=5182475815001&videoId=5813558986001",Sony Pix SD
-https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795/master_412.m3u8
+https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/hdntl=exp=1578398896~acl=%2f*~data=hdntl~hmac=27e45de8e48dba2455a29093070457e806874db09c59145b135b88f45b04813b/master_900.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",Movies now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -307,16 +307,6 @@ http://gold.hopto.me:83/live/11111111/22222222/303844.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_movies_in.jpg",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="https://seeklogo.com/images/S/sky-channel-logo-DA4030FB74-seeklogo.com.jpg",Sky cinema Select
-http://gold.hopto.me:83/live/11111111/22222222/303842.m3u8
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="https://seeklogo.com/images/S/sky-channel-logo-DA4030FB74-seeklogo.com.jpg",Sky cinema Sci-fi
-http://gold.hopto.me:83/live/11111111/22222222/304153.m3u8
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="https://seeklogo.com/images/S/sky-channel-logo-DA4030FB74-seeklogo.com.jpg",Sky cinema Hits
-http://gold.hopto.me:83/live/11111111/22222222/303845.m3u8
 
 
 Infotainment
