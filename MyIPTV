@@ -151,7 +151,7 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://cdn.imgbin.com/25/16/6/imgbin-apple-music-logo-itunes-apps-itunes-logo-n1m3ZyA8iUE1QYMrLqViWd5CT.jpg",$ JOO MUSIC
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Musicc" tvg-logo="N/A",Utv
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="N/A",Utv
 http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Kadak Hungama Hits
@@ -163,7 +163,7 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="N/A",Dream Tv
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Musicc" tvg-logo="N/A",M2O Music
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="N/A",M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 
@@ -283,7 +283,7 @@ http://pockettv.xyz/api/zee.m3u8?c=wion
 ENGLISH Movie
 ------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",Sony Pix
+#EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",Sony Pix IN
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Movie" tvg-logo="http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5814021064001_5813558986001-th.jpg?pubId=5182475815001&videoId=5813558986001",Sony Pix HD
@@ -411,16 +411,16 @@ https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max SD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max HD
+#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max IN
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
 #EXTINF:-1 tvg-id="star gold" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Star Gold
 http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_hd.jpg",Zee Cinema HD
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_hd.jpg",Zee Cinema IN
 http://zee18.site/zee/get.php?channel=zcinemahd
-http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
@@ -431,7 +431,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://zee18.site/zee/get.php?channel=action
-http://pockettv.xyz/api/zee.m3u8?c=action
+
 
 #EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
 http://zee18.site/zee/get.php?channel=classic
