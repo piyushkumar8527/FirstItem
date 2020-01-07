@@ -400,10 +400,11 @@ Hindi Movies
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://images/Sony_Max_HD.png",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://images/Sony_Max_HD.png",Sony Max SD
+#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max SD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_max_tv_in.jpg",Sony Max HD
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577608200_08a723ee5e79f43350587d768f071795
 
 #EXTINF:-1 tvg-id="star gold" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Star Gold
@@ -475,6 +476,9 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies", Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:0, group-title="Hindi Movies",b4u kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 
 #EXTINF:0, group-title="Hindi Movies",WOW CINEMA
 http://streamer.multitvsolution.in//live/WowCinema-d/p4.m3u8
